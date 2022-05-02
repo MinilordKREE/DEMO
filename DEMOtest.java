@@ -5,7 +5,7 @@ import org.junit.*;
 public class DEMOtest {
     @Test
     public void number() {
-    assertEquals(2,DEMO.num(1));
+    assertEquals(2,DEMO.num(2));
 }
 
 }
